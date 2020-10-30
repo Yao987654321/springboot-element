@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.lemon.demo.dao.IUserDao">
+
+    <insert id="add" parameterType="cn.lemon.demo.domain.User">
+        INSERT INTO
+          `user`(`name`,`age`,`sex`,`address`)
+        VALUES
+          (#{name},#{age},#{sex},#{address})
+    </insert>
+
+    <delete id="delete">
+        delete from user where id = #{id}
+    </delete>
+
+    <select id="findAll" resultType="cn.lemon.demo.domain.User">
+        select * from user
+    </select>
+
+    <select id="findById" resultType="cn.lemon.demo.domain.User">
+        select * from user where id = #{id}
+    </select>
+
+    <select id="findByName" resultType="cn.lemon.demo.domain.User">
+        select * from user where name like concat(concat('%',#{name}),'%')
+			order by id desc
+    </select>
+
+    <select id="getRowCount" resultType="integer">
+		select count(*) from user
+	</select>
+
+    <select id="queryPage" resultMap="result" parameterType="integer">
+		select * from user order by id desc
+			limit #{startRows},5
+	</select>
+
+    <resultMap id="result" type="cn.lemon.demo.domain.User">
+        <result property="id" column="id"/>
+        <result property="name" column="name"/>
+        <result property="age" column="age"/>
+        <result property="sex" column="sex"/>
+        <result property="address" column="address"/>
+    </resultMap>
+
+    <update id="update">
+        update user
+        set name=#{name},age=#{age},sex=#{sex},address=#{address}
+        where user.id=#{id}
+    </update>
+</mapper>

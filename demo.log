@@ -1,0 +1,176 @@
+2020-05-10 07:24:00.752  INFO 4752 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 4752 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:24:00.754  INFO 4752 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:24:00.804 DEBUG 4752 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1ffaf86
+2020-05-10 07:24:04.113 DEBUG 4752 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:24:04.612  INFO 4752 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:24:04.653 DEBUG 4752 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:24:04.772 DEBUG 4752 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:24:04.808 DEBUG 4752 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:24:04.832 DEBUG 4752 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:24:05.218  INFO 4752 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 5.212 seconds (JVM running for 8.519)
+2020-05-10 07:24:05.682  INFO 4752 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:24:06.034  INFO 4752 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:24:06.207 DEBUG 4752 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1ffaf86, started on Sun May 10 07:24:00 CST 2020
+2020-05-10 07:24:06.213  INFO 4752 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:24:06.218  INFO 4752 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:24:06.229  INFO 4752 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:25:26.424  INFO 27880 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 27880 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:25:26.425  INFO 27880 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:25:26.515 DEBUG 27880 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c7696c6
+2020-05-10 07:25:29.518 DEBUG 27880 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:25:29.863  INFO 27880 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:25:29.886 DEBUG 27880 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:25:29.973 DEBUG 27880 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:25:30.009 DEBUG 27880 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:25:30.028 DEBUG 27880 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:25:30.435  INFO 27880 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.777 seconds (JVM running for 6.119)
+2020-05-10 07:25:30.765  INFO 27880 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:25:31.128  INFO 27880 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:25:31.177 DEBUG 27880 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1c7696c6, started on Sun May 10 07:25:26 CST 2020
+2020-05-10 07:25:31.180  INFO 27880 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:25:31.183  INFO 27880 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:25:31.187  INFO 27880 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:30:16.617  INFO 14240 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 14240 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:30:16.618  INFO 14240 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:30:16.720 DEBUG 14240 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1c7696c6
+2020-05-10 07:30:20.129 DEBUG 14240 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:30:20.478  INFO 14240 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:30:20.502 DEBUG 14240 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:30:20.597 DEBUG 14240 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:30:20.639 DEBUG 14240 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:30:20.654 DEBUG 14240 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:30:21.112  INFO 14240 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 5.131 seconds (JVM running for 6.407)
+2020-05-10 07:30:21.366  INFO 14240 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:30:21.663  INFO 14240 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:30:21.781 DEBUG 14240 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1c7696c6, started on Sun May 10 07:30:16 CST 2020
+2020-05-10 07:30:21.797  INFO 14240 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:30:21.800  INFO 14240 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:30:21.808  INFO 14240 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:31:40.894  INFO 16496 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 16496 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:31:40.898  INFO 16496 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:31:41.046 DEBUG 16496 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:31:44.429 DEBUG 16496 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:31:44.755  INFO 16496 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:31:44.778 DEBUG 16496 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:31:44.882 DEBUG 16496 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:31:44.918 DEBUG 16496 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:31:44.933 DEBUG 16496 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:31:45.320  INFO 16496 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 5.15 seconds (JVM running for 6.491)
+2020-05-10 07:31:45.549  INFO 16496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:31:45.838  INFO 16496 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:31:45.873 DEBUG 16496 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:31:41 CST 2020
+2020-05-10 07:31:45.877  INFO 16496 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:31:45.880  INFO 16496 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:31:45.885  INFO 16496 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:32:59.844  INFO 14096 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 14096 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:32:59.846  INFO 14096 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:32:59.905 DEBUG 14096 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:33:03.059 DEBUG 14096 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:33:03.450  INFO 14096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:33:03.599 DEBUG 14096 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:33:03.777 DEBUG 14096 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:33:03.838 DEBUG 14096 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:33:03.855 DEBUG 14096 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:33:04.237  INFO 14096 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 5.109 seconds (JVM running for 6.385)
+2020-05-10 07:33:04.506  INFO 14096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:33:04.819  INFO 14096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:33:04.857 DEBUG 14096 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:32:59 CST 2020
+2020-05-10 07:33:04.860  INFO 14096 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:33:04.864  INFO 14096 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:33:04.867  INFO 14096 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:34:40.253  INFO 26508 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 26508 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:34:40.255  INFO 26508 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:34:40.297 DEBUG 26508 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6574a52c
+2020-05-10 07:34:43.202 DEBUG 26508 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:34:43.550  INFO 26508 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:34:43.572 DEBUG 26508 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:34:43.691 DEBUG 26508 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:34:43.737 DEBUG 26508 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:34:43.750 DEBUG 26508 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:34:44.164  INFO 26508 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.63 seconds (JVM running for 5.973)
+2020-05-10 07:34:44.401  INFO 26508 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:34:44.842  INFO 26508 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:34:44.919 DEBUG 26508 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6574a52c, started on Sun May 10 07:34:40 CST 2020
+2020-05-10 07:34:44.924  INFO 26508 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:34:44.928  INFO 26508 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:34:44.942  INFO 26508 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:36:15.346  INFO 10096 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 10096 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:36:15.347  INFO 10096 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:36:15.390 DEBUG 10096 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:36:18.316 DEBUG 10096 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:36:18.691  INFO 10096 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:36:18.714 DEBUG 10096 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:36:18.818 DEBUG 10096 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:36:18.858 DEBUG 10096 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:36:18.873 DEBUG 10096 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:36:19.264  INFO 10096 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.614 seconds (JVM running for 5.946)
+2020-05-10 07:36:19.469  INFO 10096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:36:19.753  INFO 10096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:36:19.790 DEBUG 10096 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:36:15 CST 2020
+2020-05-10 07:36:19.792  INFO 10096 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:36:19.795  INFO 10096 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:36:19.801  INFO 10096 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:36:34.384  INFO 25964 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 25964 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:36:34.386  INFO 25964 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:36:34.488 DEBUG 25964 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:36:37.936 DEBUG 25964 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:36:38.286  INFO 25964 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:36:38.309 DEBUG 25964 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:36:38.400 DEBUG 25964 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:36:38.454 DEBUG 25964 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:36:38.480 DEBUG 25964 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:36:39.049  INFO 25964 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 5.34 seconds (JVM running for 6.566)
+2020-05-10 07:36:39.309  INFO 25964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:36:39.614  INFO 25964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:36:39.684 DEBUG 25964 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:36:34 CST 2020
+2020-05-10 07:36:39.687  INFO 25964 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:36:39.695  INFO 25964 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:36:39.700  INFO 25964 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:39:51.983  INFO 14596 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 14596 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:39:51.984  INFO 14596 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:39:52.090 DEBUG 14596 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6574a52c
+2020-05-10 07:39:55.066 DEBUG 14596 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:39:55.418  INFO 14596 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:39:55.444 DEBUG 14596 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:39:55.559 DEBUG 14596 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:39:55.614 DEBUG 14596 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:39:55.640 DEBUG 14596 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:39:56.024  INFO 14596 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.81 seconds (JVM running for 6.116)
+2020-05-10 07:39:56.282  INFO 14596 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:39:56.547  INFO 14596 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:39:56.592 DEBUG 14596 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6574a52c, started on Sun May 10 07:39:52 CST 2020
+2020-05-10 07:39:56.595  INFO 14596 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:39:56.600  INFO 14596 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:39:56.605  INFO 14596 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:40:19.572  INFO 18964 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 18964 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:40:19.574  INFO 18964 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:40:19.630 DEBUG 18964 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:40:22.854 DEBUG 18964 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:40:23.181  INFO 18964 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:40:23.212 DEBUG 18964 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:40:23.329 DEBUG 18964 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:40:23.375 DEBUG 18964 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:40:23.393 DEBUG 18964 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:40:23.752  INFO 18964 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.909 seconds (JVM running for 6.248)
+2020-05-10 07:40:24.021  INFO 18964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:40:24.293  INFO 18964 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:40:24.353 DEBUG 18964 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:40:19 CST 2020
+2020-05-10 07:40:24.356  INFO 18964 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:40:24.360  INFO 18964 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:40:24.363  INFO 18964 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-10 07:41:11.235  INFO 18976 --- [main] c.l.d.service.impl.UserServiceImplTest   : Starting UserServiceImplTest on Lemon with PID 18976 (started by Administrator in D:\项目\Object\server)
+2020-05-10 07:41:11.236  INFO 18976 --- [main] c.l.d.service.impl.UserServiceImplTest   : No active profile set, falling back to default profiles: default
+2020-05-10 07:41:11.311 DEBUG 18976 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54
+2020-05-10 07:41:13.831 DEBUG 18976 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+2020-05-10 07:41:14.157  INFO 18976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:41:14.187 DEBUG 18976 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-05-10 07:41:14.285 DEBUG 18976 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 9 mappings in 'requestMappingHandlerMapping'
+2020-05-10 07:41:14.328 DEBUG 18976 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /static/**] in 'resourceHandlerMapping'
+2020-05-10 07:41:14.343 DEBUG 18976 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-05-10 07:41:14.778  INFO 18976 --- [main] c.l.d.service.impl.UserServiceImplTest   : Started UserServiceImplTest in 4.322 seconds (JVM running for 5.756)
+2020-05-10 07:41:15.077  INFO 18976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-05-10 07:41:15.394  INFO 18976 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-05-10 07:41:15.442 DEBUG 18976 --- [Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c1a5b54, started on Sun May 10 07:41:11 CST 2020
+2020-05-10 07:41:15.450  INFO 18976 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-10 07:41:15.453  INFO 18976 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-10 07:41:15.458  INFO 18976 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
